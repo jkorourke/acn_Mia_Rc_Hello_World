@@ -11,6 +11,8 @@ public class HelloWorld {
 	 * 
 	 * Let's have some comments.
 	 * 
+	 * More comments.
+	 * 
 	 */
     public static void main(String[] args) throws IOException {
 
