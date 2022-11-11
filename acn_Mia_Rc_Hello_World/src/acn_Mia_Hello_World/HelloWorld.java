@@ -7,6 +7,11 @@ import java.io.IOException;
 
 public class HelloWorld {
 
+	/**
+	 * 
+	 * Let's have some comments.
+	 * 
+	 */
     public static void main(String[] args) throws IOException {
 
         int width = 100;
